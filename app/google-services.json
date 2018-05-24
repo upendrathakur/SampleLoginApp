@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "764345475727",
+    "firebase_url": "https://sampleloginapplication-a8f3e.firebaseio.com",
+    "project_id": "sampleloginapplication-a8f3e",
+    "storage_bucket": "sampleloginapplication-a8f3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764345475727:android:c00826a519db2e90",
+        "android_client_info": {
+          "package_name": "com.sampleloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764345475727-kr56je04r09vacoplp57vl7o464gscjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfkdZskp-PnAqQtqknR-0Q5HJvL1nBD54"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
